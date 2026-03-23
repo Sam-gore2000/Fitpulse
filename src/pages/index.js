@@ -1,0 +1,5 @@
+export { default as DashboardPage } from './DashboardPage.jsx'
+export { default as AnalyticsPage } from './AnalyticsPage.jsx'
+export { default as WorkoutsPage }  from './WorkoutsPage.jsx'
+export { default as GoalsPage }     from './GoalsPage.jsx'
+export { default as ProfilePage }   from './ProfilePage.jsx'
